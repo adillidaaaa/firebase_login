@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103976652138",
+    "project_id": "login-c7bcf",
+    "storage_bucket": "login-c7bcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103976652138:android:1cdb338aaeeefe83002913",
+        "android_client_info": {
+          "package_name": "com.example.fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQMRvGfHbdYI2JB7iMYFj98eO-rKVSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
